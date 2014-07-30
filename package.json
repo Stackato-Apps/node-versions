@@ -1,0 +1,16 @@
+{
+  "name": "node-versions",
+  "version": "0.1.0",
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  },
+  "dependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "Simple Node.js app",
+  "main": "server.js",
+  "author": ""
+}
+
